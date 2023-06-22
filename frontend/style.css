@@ -1,0 +1,12 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+img{
+    position: absolute;
+    display: none;
+    top: 50%;
+    left: 50%;
+}
